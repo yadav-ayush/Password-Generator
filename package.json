@@ -1,0 +1,18 @@
+{
+  "name": "commandlinepasswordgenerator",
+  "version": "1.0.0",
+  "description": "Simple Password Generator",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.jsm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "clipboardy": "^2.3.0",
+    "commander": "^8.1.0"
+  }
+}
